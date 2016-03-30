@@ -1,0 +1,113 @@
+@charset "utf-8";
+h1  {
+	background-color: #A9D1FB;
+   position: relative;
+   bottom: 10px;
+   right: 9px;
+   height:80px;
+   width:1910px;
+}
+.cossie {
+	position:relative;
+	left : 150px;
+}
+.navigation {
+    position: relative;
+	bottom: 90px;
+    left: 150px;
+	color:#F78688;
+}
+.top {
+	position: fixed;
+	z-index: 1;
+	top: 900px;
+	Left: 930px;
+	background: #3C86DD;
+	width:130px;
+	height:70px;
+}
+.center {
+	position: relative;
+	top: 70px;
+	right: 50px;
+}
+.shadow {
+	position: relative;
+	top: 130px;
+	right: 50px;
+}
+.store {
+	 position: relative;
+	 top: 550px;
+	 left:200px;
+}
+.storeShape {
+	 position: relative;
+	 top: 600px;
+	 left: 930px; 
+	 width: 150px; 
+	 height: 60px;
+	 background: red; 
+	 -moz-border-radius: 100px / 50px; 
+	 -webkit-border-radius: 100px / 50px; 
+	 border-radius: 100px / 50px;
+	 } 
+.events {
+	position: relative;
+	top: 10px;
+	left: 200px;
+}
+.eventsBack {
+    position: relative;
+	top: 700px;
+	background: #99C1FF;
+	height: 750px;
+	width: 1916px;
+	}
+.eventShape {
+	position: relative;
+	 top: 50px;
+	 left: 930px; 
+	 width: 150px; 
+	 height: 60px;
+	 background: red; 
+	 -moz-border-radius: 100px / 50px; 
+	 -webkit-border-radius: 100px / 50px; 
+	 border-radius: 100px / 50px;
+	 }
+.aboutus {
+	position: relative;
+	top: 250px;
+	left: 200px;
+}
+.aboutRoger {
+	position: relative;
+	line-height: 1.5;
+	top: 280px;
+	right: 100px;
+}
+.aboutSally {
+	position: relative;
+	line-height: 1.5;
+	top: 90px;
+	left: 500px;
+}
+.signBack {
+    position: relative;
+	top: -150px;
+	background: #99C1FF;
+	height: 550px;
+	width: 1916px;
+}
+.signupRequest {
+	position: relative;
+	top: 250px;
+	left: 200px;
+	z-index: 1;
+}
+.contactUs {
+	position: relative;
+	top: -40px;
+	left: 200px;
+	z-index: 1;
+}
